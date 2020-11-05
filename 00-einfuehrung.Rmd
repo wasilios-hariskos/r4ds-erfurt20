@@ -1,0 +1,55 @@
+---
+title: "Einführung in R für Data Science"
+author: "Dr. Wasilios Hariskos"
+date: "05. November 2020"
+output:
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Webex
+
+Die [Webex Meetings](https://uni-erfurt.webex.com/meet/wasilios.hariskos) starten 15 Minuten vor Seminarbeginn um 14 Uhr.
+
+# Kursbeschreibung
+R ist eine weit genutzte Programmiersprache und eine frei erhältliche Softwareumgebung für statistische Analyse und Datenvisualisierung.
+
+In diesem Kurs lernen Sie wie Sie komplexe Daten analysieren und interpretieren können, indem Sie Methoden aus der Statistik zusammen mit R Programmierung nutzen.
+
+Nach erfolgreichem Abschluss des Seminars werden Sie R nutzen können, um
+
+  + zu programmieren,
+
+  + Daten ein- und auszulesen,
+
+  + Daten zu manipulieren,
+
+  + wichtige Mermale eines Datensatzes zu kommunizieren, indem Sie Abbildungen erstellen,
+
+  + statistische Konzepte wie explorative Datenanalyse, Korrelation, Regression und Inferenz auf Daten anzuwenden.
+
+Der Kurs richtet sich an Bachelorstudierende im zweiten oder dritten Jahr. Es wird angenommen, dass Sie elementare Kenntnisse der Statistik sowie der Programmiersprache R (oder einer anderen Programmiersprache) haben; enthusiastische Programmierneulinge sind jedoch auch willkommen. Um herausezufinden, ob der Kurs für Sie geeignet ist, empfehle ich Ihnen die Onlinelernplattform www.datacamp.com zu besuchen und dort den kostenlosen Einfühngskurs in R zu absolvieren bzw. ein einführendes Kapitel aus einem anderen DataCamp R-Kurs zu durchlaufen.
+
+Voraussetzung für die Teilnahme an der Klausur ist die regelmäßige Teilnahme an den Lehrveranstaltungen (90 Minuten pro Woche) und das regelmäßige bearbeiten von Hausaufgaben auf DataCamp (in etwa 90 - 120 Minuten pro Woche). Die Klausur wird Aufgaben beinhalten, die im Stil, denen in den Hausaufgaben entsprechen. Ihre Note wird zu 100 Prozent auf Ihrer Leistung in der Klausur basieren
+
+# Links
+
++ [Github Verzeichnis (Repository)](https://github.com/wasilios-hariskos/r4ds-erfurt20)
++ [Programmiersprache R und Benutzeroberfläche R Studio installieren](https://rstudio.com/products/rstudio/download)
++ [Git für die Version Control (zur Zusammenarbeit an einem Projekt) installieren](https://git-scm.com/downloads)
++ [Optional: Weitere Infos zu R, RStudio und Git](https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/)
++ [Mein erstes Skript](https://raw.githubusercontent.com/wasilios-hariskos/r4ds-erfurt20/master/01-mein-erstes-skript.R)
++ [Folien: Programmieren mit R](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/01_programmingR_base.html)
++ [Folien: Umgang mit Daten](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/02_dataTransformation_dplyr.html)
++ [Folien: Visualisierung von Daten](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/03_dataVisualization_ggplot2.html)
++ [Folien: Explorative Datenanalyse](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/04_exploratoryDataAnalysis.html)
++ [Folien: Regressionsanalyse](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/05_linear_regression.html)
++ Extras: [BBWorld](https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/BBworld.R)
+
+# Literatur
+
++ [R for Data Science](r4ds.had.co.nz)
++ [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
++ [Discovering Statistics Using R](https://www.amazon.de/Discovering-Statistics-Using-Andy-Field/dp/1446200469)
