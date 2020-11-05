@@ -36,17 +36,18 @@ Voraussetzung für die Teilnahme an der Klausur ist die regelmäßige Teilnahme 
 
 # Links
 
++ [Kursseite](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/00-einfuehrung.html)
 + [Github Verzeichnis (Repository)](https://github.com/wasilios-hariskos/r4ds-erfurt20)
 + [Programmiersprache R und Benutzeroberfläche R Studio installieren](https://rstudio.com/products/rstudio/download)
 + [Git für die Version Control (zur Zusammenarbeit an einem Projekt) installieren](https://git-scm.com/downloads)
 + [Optional: Weitere Infos zu R, RStudio und Git](https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/)
-+ [Mein erstes Skript](https://raw.githubusercontent.com/wasilios-hariskos/r4ds-erfurt20/master/01-mein-erstes-skript.R)
-+ [Folien: Programmieren mit R](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/01_programmingR_base.html)
-+ [Folien: Umgang mit Daten](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/02_dataTransformation_dplyr.html)
-+ [Folien: Visualisierung von Daten](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/03_dataVisualization_ggplot2.html)
-+ [Folien: Explorative Datenanalyse](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/04_exploratoryDataAnalysis.html)
-+ [Folien: Regressionsanalyse](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/05_linear_regression.html)
-+ Extras: [BBWorld](https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/master/BBworld.R)
++ [Mein erstes Skript](https://raw.githubusercontent.com/wasilios-hariskos/r4ds-erfurt20/main/01-mein-erstes-skript.R)
++ [Folien: Programmieren mit R](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/01_programmingR_base.html)
++ [Folien: Umgang mit Daten](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/02_dataTransformation_dplyr.html)
++ [Folien: Visualisierung von Daten](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/03_dataVisualization_ggplot2.html)
++ [Folien: Explorative Datenanalyse](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/04_exploratoryDataAnalysis.html)
++ [Folien: Regressionsanalyse](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/05_linear_regression.html)
++ Extras: [BBWorld](https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/BBworld.R)
 
 # Literatur
 
