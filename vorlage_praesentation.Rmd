@@ -45,7 +45,8 @@ read.csv(file = "Data/gapminder_data.csv",
          header = TRUE, 
          sep = ",", 
          dec = ".")
-gapminder_data
+
+head(gapminder_data)
 ```
 
 
