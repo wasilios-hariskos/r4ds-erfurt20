@@ -72,7 +72,7 @@ plot(pressure)
 
 ## Slide with GGPlot
 
-```{r fig.height=7, fig.width=10}
+```{r fig.height=7, fig.width=10, message=FALSE, warning=FALSE}
 ggplot(data = gapminder) +
   geom_point(mapping = aes(x = gdpPercap,
                            y = lifeExp,
