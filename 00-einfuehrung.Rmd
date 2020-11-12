@@ -47,7 +47,17 @@ Voraussetzung für die Teilnahme an der Klausur ist die regelmäßige Teilnahme 
 + [Folien: Visualisierung von Daten](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/03_dataVisualization_ggplot2.html)
 + [Folien: Explorative Datenanalyse](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/04_exploratoryDataAnalysis.html)
 + [Folien: Regressionsanalyse](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/05_linear_regression.html)
-+ Extras: [BBWorld](https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/BBworld.R)
++ Extras: [BBWorld](https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/BBworld.R) [RMarkdown, Daten einlesen, Abbildungen speichern](https://htmlpreview.github.io/?https://github.com/wasilios-hariskos/r4ds-erfurt20/blob/main/vorlage_praesentation.html)
+
+# Datacampkurse (Hausaufgaben)
+
++ [Introduction to R for Finance](https://learn.datacamp.com/courses/introduction-to-r-for-finance)
++ [Intermediate R for Finance](https://learn.datacamp.com/courses/intermediate-r-for-finance)
++ [Introduction to Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse)
++ [Case Study: Exploratory Data Analysis](https://learn.datacamp.com/courses/case-study-exploratory-data-analysis-in-r)
+
+# Weblinks
++ [Wissenschaftliches Arbeiten mit RMarkdown](https://libscie.github.io/rmarkdown-workshop/handout.html)
 
 # Literatur
 
