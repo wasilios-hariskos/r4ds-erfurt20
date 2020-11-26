@@ -38,11 +38,12 @@ a / 0
 
 ### Potenzieren
 a^b     # a hoch b
+a**b
 
 ### Modulo: Der Rest bei einer ganzzahligen Division
 5 %% 2 
 
-b %% a 
+b %% c 
 
 ## Datentypen
 
@@ -119,6 +120,7 @@ help(sum)
 c(1, 7:9)
 c(1:5, 10.5, "next")
 
+v4
 sum(v4)
 
 sum(v3 == v4)
@@ -133,7 +135,7 @@ sum(v3, v4)
 ## Auswählen / Subsetting
 
 v2
-v2[4]
+v2[1]
 
 v1
 v1[1] <- "a"
@@ -203,38 +205,42 @@ matrix(data = 1:9,
        nrow = 3, 
        byrow = TRUE)
 
-matrix(1:9, 3, 3 ,TRUE)
+matrix(1:9, 3, 3 , TRUE)
 
 matrix(nrow = 3,
        byrow = TRUE,
        data = 1:9)
 
 meine_matrix <- matrix(data = 1:9,
-                    nrow = 3,
-                    ncol = 3,
-                    byrow = FALSE)
+                        nrow = 3,
+                        ncol = 3,
+                        byrow = FALSE)
 meine_matrix
 
-?sum
-sum(data = c(23, 20, 21, NA), 
-    na.rm = FALSE)
-
 ## Benennen
-help(rownames)
 
-m2 <- cbind(1, 1:4)
-m2
-colnames(m2, do.NULL = FALSE)
-colnames(m2) <- c("x","Y")
-m2
-rownames(m2) <- rownames(m2, do.NULL = FALSE, prefix = "Obs.")
-m2
+help(rownames)
 
 meine_matrix
 rownames(meine_matrix) <- c("row 1", "row 2", "row 3")
 meine_matrix
 colnames(meine_matrix) <- c("col 1", "col 2", "col 3")
 meine_matrix
+
+### Beispiel aus der Hilfefunktion verstehen
+m2 <- cbind(1, 1:4)
+m2
+
+colnames(m2) <- colnames(m2, do.NULL = FALSE)
+m2
+
+colnames(m2) <- c("x","Y")
+m2
+
+rownames(m2) <- rownames(m2, do.NULL = FALSE, prefix = "Obs")
+m2
+
+### Alles in einem Rutsch
 
 help(matrix)
 
@@ -325,7 +331,7 @@ dim(B)
 
 C <- A %*% B 
 C
-dim(C) # Zeilenanzahl der 1. Matrix = Spaltenanzahl der 2. Matrix
+dim(C) # "Zeilenanzahl der 1. Matrix" X "Spaltenanzahl der 2. Matrix"
 
 ### Auswahl eines Elements
 zeile = 2
@@ -353,7 +359,7 @@ geschlecht_factor
 
 tiere <- c("Hund", "Katze", "Hund")
 tiere
-factor_tiere <- factor( x = tiere)
+factor_tiere <- factor(x = tiere)
 factor_tiere
 
 ## Vergleich von Elementen eines "unordered factor"
